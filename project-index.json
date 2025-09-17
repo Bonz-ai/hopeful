@@ -1,0 +1,62 @@
+{
+  "projects": [
+    {
+      "name": "codecapy",
+      "original_path": "codecapy-main",
+      "description": "<img src=\"images/logo.png\" alt=\"CodeCapy\" />",
+      "main_language": "Python",
+      "license": ""
+    },
+    {
+      "name": "mem0-langgraph",
+      "original_path": "mem0-langgraph-mem0-multiagent",
+      "description": "<p align=\"center\">",
+      "main_language": "Python",
+      "license": ""
+    },
+    {
+      "name": "sandbox-templates",
+      "original_path": "sandbox-templates-main",
+      "description": "This repo contains all sandbox templates maintained by CodeSandbox.",
+      "main_language": "Python",
+      "license": ""
+    },
+    {
+      "name": "scrapybara-cookbook",
+      "original_path": "scrapybara-cookbook-main",
+      "description": "<div id=\"toc\" align=\"center\">",
+      "main_language": "Python",
+      "license": ""
+    },
+    {
+      "name": "scrapybara-mcp",
+      "original_path": "scrapybara-mcp-main",
+      "description": "<div id=\"toc\" align=\"center\">",
+      "main_language": "JavaScript",
+      "license": ""
+    },
+    {
+      "name": "scrapybara-python",
+      "original_path": "scrapybara-python-main",
+      "description": "[![fern shield](https://img.shields.io/badge/%F0%9F%8C%BF-Built%20with%20Fern-brightgreen)](https://buildwithfern.com?utm_source=github&utm_medium=github&utm_campaign=readme&utm_source=https%3A%2F%2Fg...",
+      "main_language": "Python",
+      "license": ""
+    },
+    {
+      "name": "scrapybara-ts",
+      "original_path": "scrapybara-ts-master",
+      "description": "[![fern shield](https://img.shields.io/badge/%F0%9F%8C%BF-Built%20with%20Fern-brightgreen)](https://buildwithfern.com?utm_source=github&utm_medium=github&utm_campaign=readme&utm_source=https%3A%2F%2Fg...",
+      "main_language": "JavaScript",
+      "license": ""
+    },
+    {
+      "name": "vscode-copilot-chat",
+      "original_path": "vscode-copilot-chat-roblou-reuse-claude-code",
+      "description": "**[GitHub Copilot](https://code.visualstudio.com/docs/copilot/overview)** is an AI peer programming tool that helps you write code faster and smarter.",
+      "main_language": "Python",
+      "license": ""
+    }
+  ],
+  "consolidation_date": "2025-09-17 11:02:58 +0100",
+  "total_projects": 8
+}

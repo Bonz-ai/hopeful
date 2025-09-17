@@ -1,0 +1,7 @@
+**/__pycache__/
+**/.mypy_cache/
+.env
+.venv/
+.DS_Store
+keys/
+.DS_Store

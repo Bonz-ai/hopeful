@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+* text=auto eol=lf
+
+# Don't use LFS for any files to avoid upload issues
+*.sqlite -filter -diff -merge text

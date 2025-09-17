@@ -1,0 +1,156 @@
+
+*$py.class
+.Spotlight-V100
+.scrapy
+notebooks/*.yaml
+.pdm.toml
+!embedchain/embedchain/core/db/
+.tox/
+src/extension/completions-core
+.coverage.*
+target/
+.env
+keys/
+# IDE files
+__pycache__/
+.idea/
+# From sandbox-templates:
+.coverage
+env/
+__pypackages__/
+ENV/
+.venv*
+var/
+# From mem0-langgraph:
+.todos.md
+# From codecapy:
+ipython_config.py
+docusaurus/my-website/node_modules
+*.manifest
+coverage/
+*.swp
+# Runtime data
+.vscode
+test/simulation/cache/_base.sqlite
+*.so
+share/python-wheels/
+.ideas.md
+*.egg-info/
+lib64/
+pip-delete-this-directory.txt
+*.py[cod]
+# Logs
+Thumbs.db
+.vscode/
+profile_default/
+.venv/
+# Dependency directories
+nosetests.xml
+/.env
+.pyre/
+celerybeat.pid
+.DS_Store?
+.dmypy.json
+pip-log.txt
+*.mo
+dmypy.json
+# From scrapybara-mcp:
+*.exe
+*.log
+*.pid.lock
+.webassets-cache
+dist
+!configs/*.yaml
+*.swo
+.nox/
+/dist
+test/simulation/language/harness/
+*.py,cover
+db
+*.token
+# OS generated files
+htmlcov/
+db.sqlite3-journal
+env.bak/
+build/
+instance/
+node_modules
+*.pid
+.spyproject
+cython_debug/
+pyenv/
+.pytype/
+*.egg
+.venv
+**/node_modules/
+parts/
+*.cover
+# Build outputs
+*.spec
+.hypothesis/
+poetry.toml
+.Trashes
+# From vscode-copilot-chat:
+*.db
+local_settings.py
+.spyderproject
+/site
+.eggs/
+**/__pycache__/
+.vscode-test-web/
+.build
+venv.bak/
+# Consolidated repository gitignore
+._*
+.mypy_cache/
+**/.mypy_cache/
+develop-eggs/
+test-db
+docs/_build/
+eggs/
+.ipynb_checkpoints/
+.cache
+.Python
+cover/
+eval/
+dist/
+.DS_Store
+# From scrapybara-python:
+sdist/
+.ruff_cache/
+.simulation
+*.o
+*.pyc
+node_modules/
+venv/
+.vscode-test/
+celerybeat-schedule
+l10n/
+qdrant_storage/
+*.pot
+db.sqlite3
+*.seed
+pids
+*.sage.py
+.ropeproject
+.pybuilder/
+testing.ipynb
+.crossnote
+logs/
+wheels/
+coverage.xml
+lib/
+downloads/
+.pytest_cache/
+MANIFEST
+# Project-specific rules from consolidated projects:
+.installed.cfg
+ehthumbs.db
+# From scrapybara-ts:
+test/aml/out
+# Cach
+e directories (added to fix LFS issues)
+**/cache/
+**/simulation/cache/
+*.sqlite
+test/simulation/cache/

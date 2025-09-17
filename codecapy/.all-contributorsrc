@@ -1,0 +1,25 @@
+{
+  "projectName": "codecapy",
+  "projectOwner": "Scrapybara",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 50,
+  "badgeTemplate": "<img alt='All Contributors' src='https://img.shields.io/badge/All_contributors-<%= contributors.length %>-yellow.svg?style=flat-square' />",
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /></a>",
+  "commit": false,
+  "contributors": [
+    {
+      "login": "justinsunyt",
+      "name": "justin sun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33591641?v=4",
+      "profile": "https://justinsun.me/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
